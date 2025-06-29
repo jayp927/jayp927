@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Helper Buddy** – a platform to connect users with skilled service providers  
+- 🔭 I’m currently working on **Next.Js & Firebase Projects** – a platform to connect users with skilled service providers  
 - 🌱 I’m learning **Backend Architecture**, **Cloud Deployment**, and **Next.js Full Stack**
 - 💬 Ask me about **React, Next.js, Tailwind CSS, Firebase, TypeScript**
 - 📫 Reach me at: **jaypipaliya0101@gmail.com**
