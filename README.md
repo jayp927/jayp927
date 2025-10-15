@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Pipaliya</h1>
-<h3 align="center">2nd Year CSE Undergraduate @ SVNIT | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">3rd Year CSE Undergraduate @ SVNIT | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend+Developer;Backend+Developer;MERN+Stack+Explorer;Love+to+Build+and+Break" alt="Typing SVG" />
