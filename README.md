@@ -16,9 +16,8 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="(https://skillicons.dev/iconsi=aws,c,cpp,css,docker,express,firebase,git,github,html,java,js,linux,mongodb,mysql,netlify,nextjs,nodejs,postgres,prisma,python,pytorch,react,tailwind,tensorflow,ts,vercel)" />
+  <img src="https://skillicons.dev/icons?i=aws,c,cpp,css,docker,express,firebase,git,github,html,java,js,mongodb,mysql,netlify,nextjs,nodejs,postgres,prisma,python,react,tailwind,ts,vercel&perline=8" />
 </p>
-
 ---
 
 ## 💻 Competitive Programming
@@ -31,16 +30,14 @@
 ---
 
 ## 🧑‍💻 Projects
-- 🚀 [Helper Buddy](https://dudh-kela.netlify.app) – Smart service discovery platform  
-- 🥛 [No Cow Factory](https://github.com/Purv-Kabaria/No-Cow-Factory) – Creative dairy company website  
+- 🚀 [Helper-Buddy](https://dudh-kela.netlify.app) – Smart service discovery platform  
+- 🥛 [FinBridge](https://github.com/jayp927/Businessmen) – Contact & Deal Management Platform  
 - 🧪 More on [GitHub Projects »](https://github.com/jayp927)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayp927&show_icons=true&theme=radical" alt="Jay's GitHub stats" />
-</p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayp927&theme=react-dark&area=true&hide_border=true)](https://github.com/jayp927)
 
 ---
 
