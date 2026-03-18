@@ -7,11 +7,10 @@
 
 ---
 
-- 🔭 I’m currently working on **Next.Js & Firebase Projects** – a platform to connect users with skilled service providers  
-- 🌱 I’m learning **Backend Architecture**, **Cloud Deployment**, and **Next.js Full Stack**
-- 💬 Ask me about **React, Next.js, Tailwind CSS, Firebase, TypeScript**
+- 🔭 Engineering intelligent products with AI + full-stack
+- 🌱 Building tech that actually makes a difference 
+- 💬 Exploring ML, system design & scalable architectures
 - 📫 Reach me at: **jaypipaliya0101@gmail.com**
-- ⚡ Fun fact: I love solving real-life problems through code 💡
 
 ---
 
