@@ -2,7 +2,7 @@
 <h3 align="center">3rd Year CSE Undergraduate @ SVNIT | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend+Developer;Backend+Developer;MERN+Stack+Explorer;Love+to+Build+and+Break" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=AI+ML+Enthusiast;Backend+Developer;Love+to+Build+and+Break" alt="Typing SVG" />
 </p>
 
 ---
